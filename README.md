@@ -12,4 +12,5 @@ The goal of this project is to predict the sales price of houses based on the pr
 - The dataset used in this project is named "train.csv" and can be found in the repository.
 - The dataset consists of 79 features, covering various aspects of residential homes.
 - The target variable is "SalePrice," which represents the final sale price of each house.
-
+- Linear Regression, Decision Trees , Random Forest, Ridge Regression and Lasso Regression algorithms are used and the best R2 score is provided by Ridge Regression
+- Ridge Score: 0.86004
